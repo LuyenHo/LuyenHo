@@ -1,0 +1,813 @@
+Name: Ngoc Luyen Ho
+Class: CIS 35A 1Z
+Assignment Number: 3
+Due Date: 05/13/2021
+Date Submitted: 05/12/2021
+
+First run:
+Enter DNA: AGCCTAGGATCAG
+
+LtoRHelix: AGCCTAGGATCAG
+RtoLHelix: TCGGATCCTAGTC
+
+There are 13 nucleic acid in LtoRHelix
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+
+There are 13 nucleic acid in RtoLHelix
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+
+The highest MolarMass in LtoRHelix is Guanine(151.13 g/mol) at index: 1 6 7 12 
+The highest MolarMass in RtoLHelix is Guanine(151.13 g/mol) at index: 2 3 10 
+
+The total Density of all Nucleic Acid in LtoRHelix: 22.296001 g/cm3
+The total Density of all Nucleic Acid in RtoLHelix: 20.892 g/cm3
+
+Second run:
+Enter DNA: AGCCTAGGATCTAGGATCAG
+
+LtoRHelix: AGCCTAGGATCTAGGATCAG
+RtoLHelix: TCGGATCCTAGATCCTAGTC
+
+There are 20 nucleic acid in LtoRHelix
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+
+There are 20 nucleic acid in RtoLHelix
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+
+The highest MolarMass in LtoRHelix is Guanine(151.13 g/mol) at index: 1 6 7 13 14 19 
+The highest MolarMass in RtoLHelix is Guanine(151.13 g/mol) at index: 2 3 10 17 
+
+The total Density of all Nucleic Acid in LtoRHelix: 33.892002 g/cm3
+The total Density of all Nucleic Acid in RtoLHelix: 31.838 g/cm3
+
+Third run:
+Enter DNA: AGCCTATAGGATCAG
+
+LtoRHelix: AGCCTATAGGATCAG
+RtoLHelix: TCGGATATCCTAGTC
+
+There are 15 nucleic acid in LtoRHelix
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+
+There are 15 nucleic acid in RtoLHelix
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+
+The highest MolarMass in LtoRHelix is Guanine(151.13 g/mol) at index: 1 8 9 14 
+The highest MolarMass in RtoLHelix is Guanine(151.13 g/mol) at index: 2 3 12 
+
+The total Density of all Nucleic Acid in LtoRHelix: 25.119001 g/cm3
+The total Density of all Nucleic Acid in RtoLHelix: 23.715 g/cm3
+
+Fourth run:
+Enter DNA: AAAGCCTAGGATAGGATCAG
+
+LtoRHelix: AAAGCCTAGGATAGGATCAG
+RtoLHelix: TTTCGGATCCTATCCTAGTC
+
+There are 20 nucleic acid in LtoRHelix
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+
+There are 20 nucleic acid in RtoLHelix
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+
+The highest MolarMass in LtoRHelix is Guanine(151.13 g/mol) at index: 3 8 9 13 14 19 
+The highest MolarMass in RtoLHelix is Guanine(151.13 g/mol) at index: 4 5 17 
+
+The total Density of all Nucleic Acid in LtoRHelix: 34.319 g/cm3
+The total Density of all Nucleic Acid in RtoLHelix: 30.483997 g/cm3
+
+Fifth run:
+Enter DNA: AAAGCCTCTGAGGATAGGATCAG
+
+LtoRHelix: AAAGCCTCTGAGGATAGGATCAG
+RtoLHelix: TTTCGGAGACTCCTATCCTAGTC
+
+There are 23 nucleic acid in LtoRHelix
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+
+There are 23 nucleic acid in RtoLHelix
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Adenine
+	Chemical Formula:  C5H5N5
+	Molar Mass:        135.13 g/mol
+	Density:           1.6 g/cm3
+   Guanine
+	Chemical Formula:  C5H5N5O
+	Molar Mass:        151.13 g/mol
+	Density:           2.2 g/cm3
+   Thymine
+	Chemical Formula:  C5H6N2O2
+	Molar Mass:        126.115 g/mol
+	Density:           1.223 g/cm3
+   Cytosine
+	Chemical Formula:  C4H5N3O
+	Molar Mass:        111.1 g/mol
+	Density:           1.55 g/cm3
+
+The highest MolarMass in LtoRHelix is Guanine(151.13 g/mol) at index: 3 9 11 12 16 17 22 
+The highest MolarMass in RtoLHelix is Guanine(151.13 g/mol) at index: 4 5 7 20 
+
+The total Density of all Nucleic Acid in LtoRHelix: 39.292004 g/cm3
+The total Density of all Nucleic Acid in RtoLHelix: 35.833996 g/cm3
